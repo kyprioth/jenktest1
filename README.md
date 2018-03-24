@@ -1,2 +1,3 @@
 # jenktest1
-For testing with Jenkins
+For testing with Jenkins test project
+
